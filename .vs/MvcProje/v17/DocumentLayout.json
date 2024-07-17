@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fhrtt\\OneDrive\\Masa\u00FCst\u00FC\\MvcProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5C3E5F-E709-4556-806D-0B715A909848}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\fhrtt\\onedrive\\masa\u00FCst\u00FC\\mvcproje\\dataaccesslayer\\abstract\\iadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5C3E5F-E709-4556-806D-0B715A909848}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\iadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C3ACB2-B019-4099-9F93-DA2F0F3168B2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\fhrtt\\onedrive\\masa\u00FCst\u00FC\\mvcproje\\businesslayer\\validationrules\\blogvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C3ACB2-B019-4099-9F93-DA2F0F3168B2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validationrules\\blogvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C3ACB2-B019-4099-9F93-DA2F0F3168B2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\fhrtt\\onedrive\\masa\u00FCst\u00FC\\mvcproje\\businesslayer\\abstract\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C3ACB2-B019-4099-9F93-DA2F0F3168B2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C3ACB2-B019-4099-9F93-DA2F0F3168B2}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\fhrtt\\onedrive\\masa\u00FCst\u00FC\\mvcproje\\businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C3ACB2-B019-4099-9F93-DA2F0F3168B2}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAdminDal.cs",
+              "DocumentMoniker": "C:\\Users\\fhrtt\\OneDrive\\Masa\u00FCst\u00FC\\MvcProje\\DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "ToolTip": "C:\\Users\\fhrtt\\OneDrive\\Masa\u00FCst\u00FC\\MvcProje\\DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:19:18.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fhrtt\\OneDrive\\Masa\u00FCst\u00FC\\MvcProje\\BusinessLayer\\ValidationRules\\BlogValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ValidationRules\\BlogValidator.cs",
+              "ToolTip": "C:\\Users\\fhrtt\\OneDrive\\Masa\u00FCst\u00FC\\MvcProje\\BusinessLayer\\ValidationRules\\BlogValidator.cs",
+              "RelativeToolTip": "BusinessLayer\\ValidationRules\\BlogValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:19:15.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "C:\\Users\\fhrtt\\OneDrive\\Masa\u00FCst\u00FC\\MvcProje\\BusinessLayer\\Abstract\\IBlogService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IBlogService.cs",
+              "ToolTip": "C:\\Users\\fhrtt\\OneDrive\\Masa\u00FCst\u00FC\\MvcProje\\BusinessLayer\\Abstract\\IBlogService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IBlogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:19:12.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\fhrtt\\OneDrive\\Masa\u00FCst\u00FC\\MvcProje\\BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\fhrtt\\OneDrive\\Masa\u00FCst\u00FC\\MvcProje\\BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IAboutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:19:10.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
